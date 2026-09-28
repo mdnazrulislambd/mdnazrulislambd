@@ -33,8 +33,8 @@ A SQL Server database for the School Management System.
 
 ## 🔭 Currently Working On
 
-- [A specific project, e.g. "Building an ASP.NET Core Web API for the School Management System"]
-- [A specific skill, e.g. "Learning JWT authentication and unit testing with xUnit"]
+- Building an ASP.NET Core Web API for the School Management System.
+- Learning ASP.NET Core and SQL Server.
 
 ## 🛠️ Tech Stack
 
@@ -50,4 +50,4 @@ A SQL Server database for the School Management System.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-nazrul-islam-25a45833b/)
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/nazrul_sane)
 
-I'm open to [e.g. junior/mid-level .NET roles, collaboration, feedback on my code].
+I'm open to junior .NET roles, collaboration, feedback on my code.
