@@ -15,7 +15,7 @@ Based in Bangladesh 🇧🇩. I build practical backend and database-driven appl
 
 - I focus on the backend: application logic, data modeling, and T-SQL.
 - I like turning real-world processes (like running a school) into clean, working software.
-- [One sentence on what you're best at, e.g. "I enjoy designing normalized schemas and writing reports that answer real questions."]
+
 
 ## 🚀 Featured Projects
 
