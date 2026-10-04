@@ -17,22 +17,10 @@ Based in Bangladesh 🇧🇩. I build practical backend and database-driven appl
 - I like turning real-world processes (like running a school) into clean, working software.
 
 
-## 🚀 Featured Projects
-
-### 🏫 [School Management System](https://github.com/mdnazrulislambd/School_Management_System)
-A C# / .NET application for managing school information and operations.
-- **Features:** student records, teacher assignments, class and subject management etc.
-- **Stack:** C#, .NET, SQL Server
-
-### 🗄️ [SMS Database](https://github.com/mdnazrulislambd/SMS_DB)
-A SQL Server database for the School Management System.
-- **Covers:** table design, test data, queries, and class-teacher-subject reports
-- **Stack:** T-SQL, SQL Server
-- **Highlights:** relationships, constraints, views, stored procedures
 
 ## 🔭 Currently Working On
 
-- Building an ASP.NET Core Web API for the School Management System.
+- Building an ASP.NET Core Web API.
 - Learning ASP.NET Core and SQL Server.
 
 ## 🛠️ Tech Stack
